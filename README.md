@@ -12,7 +12,7 @@
 
 **DURATION :** JULY 15 TO AUGUST 15 2024
 
-## Overview: To-Do List Application
+## Overview: To-Do List Web Application
 Objective
 The primary goal of this project is to create a web-based To-Do List application that allows users to manage tasks effectively. The application will offer functionalities such as task creation, editing, deletion, categorization, prioritization, setting deadlines, and more. It will be responsive across devices and support user authentication and data persistence.
 
