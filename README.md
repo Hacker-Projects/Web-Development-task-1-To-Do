@@ -57,4 +57,4 @@ The application will be designed to work smoothly on desktops, tablets, and smar
 
 4.Understand the principles of responsive design and apply them to create a seamless user experience across different devices.
 
-5.Experience the process of deploying a web application, including version control with Git and hosting on a platform like GitHub Pages..
+5.Experience the process of deploying a web application, including version control with Git and hosting on a platform like GitHub Pages.
