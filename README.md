@@ -18,29 +18,17 @@ The primary goal of this project is to create a web-based To-Do List application
 
 ## Key Features
 
-## Task Management
+**Task Management:** Users can add, edit, delete, and mark tasks as completed.
 
-Users can add, edit, delete, and mark tasks as completed.
+**Categories and Tags:** Users can organize tasks using categories or tags for better management.
 
-## Categories and Tags
+**Prioritization:** Users can assign priorities (e.g., high, medium, low) to tasks.
 
-Users can organize tasks using categories or tags for better management.
+**Deadlines and Reminders:** Users can set deadlines for tasks and receive reminders for upcoming deadlines.
 
-## Prioritization
+**Search and Filter:** The application will include search functionality and filters to help users quickly find tasks.
 
-Users can assign priorities (e.g., high, medium, low) to tasks.
-
-## Deadlines and Reminders
-
-Users can set deadlines for tasks and receive reminders for upcoming deadlines.
-
-## Search and Filter
-
-The application will include search functionality and filters to help users quickly find tasks.
-
-## Responsive Design
-
-The application will be designed to work smoothly on desktops, tablets, and smartphones.
+**Responsive Design:** The application will be designed to work smoothly on desktops, tablets, and smartphones.
 
 ## Technologies
 **Frontend:** HTML, CSS, JavaScript
