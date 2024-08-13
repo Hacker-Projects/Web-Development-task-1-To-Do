@@ -44,6 +44,7 @@ The application will be designed to work smoothly on desktops, tablets, and smar
 
 ## Technologies
 **Frontend:** HTML, CSS, JavaScript
+
 **Version Control:** Git and GitHub
 
 ## Learning Outcomes
